@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3315971bf24514d26594664069cae77b",
+    "revision": "bc559541487e7a9a6bdc5a77c108b841",
     "url": "/elise-website/index.html"
   },
   {
-    "revision": "9483d1a1112403d75d22",
+    "revision": "26ebc61668595ecfe27c",
     "url": "/elise-website/static/css/main.3431cb8a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elise-website/static/js/2.c401c973.chunk.js.LICENSE"
   },
   {
-    "revision": "9483d1a1112403d75d22",
-    "url": "/elise-website/static/js/main.69edc351.chunk.js"
+    "revision": "26ebc61668595ecfe27c",
+    "url": "/elise-website/static/js/main.e4286b7c.chunk.js"
   },
   {
     "revision": "72227622ef94ba082753",
