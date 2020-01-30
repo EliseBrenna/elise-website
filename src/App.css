@@ -82,12 +82,27 @@ body {
 
 .twitter {
   display: grid;
+  grid-column: 1;
+  grid-row: 2;
+  align-self: center;
+  margin-top: 30px;
+}
+
+.twitter img {
+  width: 50%;
+  justify-self: end;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.eggxact {
+  display: grid;
   grid-column: 3;
   grid-row: 1;
   align-self: center;
 }
 
-.twitter img {
+.eggxact img {
   width: 50%;
   justify-self: start;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
@@ -105,6 +120,11 @@ body {
 }
 
 .twitter img:hover {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+
+.eggxact img:hover {
   -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
   filter: grayscale(0%);
 }
